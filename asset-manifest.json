@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meduzzen-demo/static/css/main.f9deebff.css",
+    "main.js": "/meduzzen-demo/static/js/main.25f023aa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/meduzzen-demo/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about-page-company-img.png": "/meduzzen-demo/static/media/about-page-company-img.83f9075050890ddbe8d7.png",
+    "static/media/about-page-users-img.png": "/meduzzen-demo/static/media/about-page-users-img.d919df78575000b7ac10.png",
+    "index.html": "/meduzzen-demo/index.html",
+    "main.f9deebff.css.map": "/meduzzen-demo/static/css/main.f9deebff.css.map",
+    "main.25f023aa.js.map": "/meduzzen-demo/static/js/main.25f023aa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/meduzzen-demo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9deebff.css",
+    "static/js/main.25f023aa.js"
+  ]
+}
